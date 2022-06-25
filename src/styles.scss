@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+.btn {
+  background-color: black;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: capitalize;
+  border: 0;
+  outline: none;
+  &:hover {
+    color: white;
+  }
+  &.btn-block {
+    width: 100%;
+    display: block;
+    background-color: rgba(0, 128, 0, 0.904);
+    outline: 0;
+    box-shadow: none;
+}
+
+}

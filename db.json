@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Meeting with Rupesh",
+      "day": "March 06 at 4:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Appointemnt at RTO Office",
+      "day": "March 10 at 11am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Morning attendance call",
+      "day": "March 07 at 10:30am",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Work Discussion meeting",
+      "day": "March 07 at 11am",
+      "reminder": false
+    },
+    {
+      "text": "sefrer",
+      "day": "werw",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
